@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Implement-ci-cd-Api.props" />
-</Project>

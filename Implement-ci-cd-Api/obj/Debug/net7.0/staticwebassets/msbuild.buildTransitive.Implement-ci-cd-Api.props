@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Implement-ci-cd-Api.props" />
-</Project>
