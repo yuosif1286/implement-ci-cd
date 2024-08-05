@@ -19,7 +19,7 @@ jobs:
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '7.x'
+          dotnet-version: '8.x'
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
@@ -53,4 +53,4 @@ jobs:
           app-name: 'PSDevelopDemo'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17582FA803114A069B24B76094CACA62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4DC549F48AE4160957C166CACB5634E }}
