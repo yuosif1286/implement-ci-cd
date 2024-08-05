@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "24l/tmRqEaksU7VTr9rSYMV7avUoFSuMA3vf0iDPbm9VG46EdyQRfZtMv1riwinxMi2iqhDwwxImjcidK5VUNQ==",
+  "success": true,
+  "projectFilePath": "/Users/yuosif/Projects/implemant-CI-CD/Implement-ci-cd-Api/Implement-ci-cd-Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuosif/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "/Users/yuosif/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/yuosif/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/yuosif/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/yuosif/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/yuosif/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/yuosif/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
