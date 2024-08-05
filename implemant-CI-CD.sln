@@ -5,8 +5,6 @@ VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "implemant-CI-CD", "implemant-CI-CD\implemant-CI-CD.csproj", "{D7F76720-A92C-442F-AB03-1547931C80A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement-ci-cd-Api", "Implement-ci-cd-Api\Implement-ci-cd-Api.csproj", "{3F78B5C7-A0C1-4DCA-85A9-CD8177455DD2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
